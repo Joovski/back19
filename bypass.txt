@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage").ban:Destroy()
+wait()
+game:GetService("ReplicatedStorage").kick:Destroy()
+wait()
+game:GetService("ReplicatedStorage").SecureSettings:Destroy()
